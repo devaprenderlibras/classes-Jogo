@@ -5,8 +5,10 @@
 #### 4. Chamada do Método atacar: O método atacar é chamado para cada herói, exibindo a mensagem apropriada.
 
 ## Saída Esperada
-Quando você executa esse código em um ambiente Node.js, a saída será:
+Quando você executa esse código em um ambiente Node.js, a saída será:<br>
+```bash
 o mago atacou usando magia
 o guerreiro atacou usando espada
 o monge atacou usando artes marciais
 o ninja atacou usando shuriken
+```
